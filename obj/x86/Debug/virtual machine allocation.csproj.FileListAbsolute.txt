@@ -1,0 +1,159 @@
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AdminLogin.resources
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+D:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Userdetail.resources
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AdminLogin.resources
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.userlist.resources
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Userdetail.resources
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FileUpload.resources
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM1USER.resources
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM2USER.resources
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM3USER.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AdminLogin.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FileUpload.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM2USER.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM1USER.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.userlist.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Userdetail.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM3USER.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csprojResolveAssemblyReference.cache
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AdminLogin.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FileUpload.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM2USER.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM1USER.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.userlist.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Userdetail.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM3USER.resources
+C:\Users\JAIHIND\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AdminLogin.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FileUpload.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM2USER.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM1USER.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.userlist.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Userdetail.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM3USER.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AdminLogin.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FileUpload.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM2USER.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM1USER.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.userlist.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Userdetail.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM3USER.resources
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\app\ezhil2project\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csprojResolveAssemblyReference.cache
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AdminLogin.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FileUpload.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM2USER.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM1USER.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.userlist.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Userdetail.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM3USER.resources
+E:\sara\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csproj.GenerateResource.Cache
+E:\sara\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\sara\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csprojResolveAssemblyReference.cache
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AdminLogin.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FileUpload.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM2USER.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM1USER.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.userlist.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Userdetail.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM3USER.resources
+H:\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csproj.GenerateResource.Cache
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AdminLogin.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FileUpload.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM2USER.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM1USER.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.userlist.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Userdetail.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM3USER.resources
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csprojResolveAssemblyReference.cache
+E:\before format\E\project\VM Full doc\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csproj.GenerateResource.Cache
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csprojResolveAssemblyReference.cache
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AdminLogin.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FileUpload.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM2USER.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM1USER.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.userlist.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Userdetail.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.VM3USER.resources
+E:\Coding\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\virtual machine allocation.csproj.GenerateResource.Cache
